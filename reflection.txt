@@ -2,3 +2,4 @@ hey yo
 first modification
 hey
 comparing between working direc. and staging area.
+yeah.
